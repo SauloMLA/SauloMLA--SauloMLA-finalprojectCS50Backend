@@ -2,7 +2,7 @@
 url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
-
+PYTHONHASHSEED=0
 [packages]
 Flask = "==2.0.1"
 Flask-Cors = "==3.0.10"
